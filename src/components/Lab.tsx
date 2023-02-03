@@ -129,7 +129,7 @@ export const Lab = () => {
                 </div>
             </header>
 
-            <h2 className="title"><span style={{opacity: 0.6}}>BSIT-3B</span><br/>SEAT PLAN FOR MAC LAB</h2>
+            <h2 className="title"><span>BSIT-3B</span><br/>SEAT PLAN FOR MAC LAB</h2>
 
             <main>
                 { loading && (
