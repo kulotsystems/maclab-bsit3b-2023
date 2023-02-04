@@ -1,5 +1,5 @@
 ## maclab-bsit3b-2023
-Maclab Seatplan for BSIT-3B 2023 at PSUB.
+CCIT-106 Mac Lab Seat Plan for BSIT-3B (2023) at PSUB.
 
 #### Install dependencies
 ```sh
